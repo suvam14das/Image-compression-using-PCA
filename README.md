@@ -5,3 +5,5 @@ Example image compression using Principal Component Analysis SVD to separate com
 ![Color](http://fat.gfycat.com/WelltodoElaborateBrocketdeer.gif)
 
 The code runs a for loop for varying subsections `p` of each component, lower p is higher compression
+The gif shows decompressed images for varying compression ratio. As compression ratio decreases the decompressed image is more
+blurry and vice versa. 
